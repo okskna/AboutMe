@@ -1,11 +1,19 @@
 # About Me 웹페이지
 
-![](.\resultImg\index.jpg)
+1. 메인화면
 
-![](.\resultImg\Aboutme.jpg)
+![](https://github.com/okskna/AboutMe/blob/master/resultImg/index.jpg?raw=true)
 
-![](.\resultImg\picture.jpg)
+2. About me
 
-![](.\resultImg\time.jpg)
+![](https://github.com/okskna/AboutMe/blob/master/resultImg/AboutMe.jpg?raw=true)
+
+3. Picture
+
+![](https://github.com/okskna/AboutMe/blob/master/resultImg/picture.jpg?raw=true)
+
+4. 현재 시간을 출력, servlet
+
+![](https://github.com/okskna/AboutMe/blob/master/resultImg/time.JPG?raw=true)
 
 html, CSS, servlet 실습
